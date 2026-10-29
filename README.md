@@ -1,7 +1,30 @@
 # Web3 Dev Portfolio
 
-Some personal projects and experiments with smart contracts on Polygon and Solana.
+Personal experiments and learning projects focused on smart contracts, NFTs, and token interactions on **Polygon** and **Solana**.
 
+> **Important**: The wallet addresses listed below were created purely as a **honeypot experiment**.  
+> They were never intended for real use, funding, or receiving valuable assets.
+
+---
+
+## Honeypot Experiment
+
+These addresses were deployed and publicly listed as a controlled test to observe automated bot behavior on public blockchains.
+
+**Goal of the experiment**  
+To measure whether (and how quickly) bots would:
+
+- Send unsolicited NFTs (airdrops, spam mints, etc.)
+- Transfer tokens
+- Interact with the addresses in any automated way
+
+This was a passive observation setup — no private keys were ever shared, no contracts were deployed that could drain funds, and no value was expected or solicited.
+
+---
+
+## On-chain Addresses (Honeypot Wallets)
+
+### Polygon / Ethereum
 ## Contact / On-chain
 
 ### Polygon / Ethereum
